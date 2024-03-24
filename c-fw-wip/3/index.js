@@ -16,7 +16,7 @@ var Module = typeof Module != 'undefined' ? Module : {};
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: D:\Soft\Msys64\tmp\tmpdwyni575.js
+// include: D:\Soft\Msys64\tmp\tmp7313rcza.js
 
   if (!Module.expectedDataFileDownloads) {
     Module.expectedDataFileDownloads = 0;
@@ -191,25 +191,25 @@ Module['FS_createPath']("/", "assets", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/assets/bgBroccoli.png", "start": 0, "end": 74796}, {"filename": "/assets/cherry.png", "start": 74796, "end": 75276}, {"filename": "/assets/clouds.png", "start": 75276, "end": 640423}, {"filename": "/assets/game.mp3", "start": 640423, "end": 5378166, "audio": 1}, {"filename": "/assets/goldFont-uhd.fnt", "start": 5378166, "end": 5409382}, {"filename": "/assets/goldFont-uhd.png", "start": 5409382, "end": 5796307}, {"filename": "/assets/icon.png", "start": 5796307, "end": 5819666}, {"filename": "/assets/jump1.ogg", "start": 5819666, "end": 5825368, "audio": 1}, {"filename": "/assets/jump2.ogg", "start": 5825368, "end": 5830459, "audio": 1}, {"filename": "/assets/kid.png", "start": 5830459, "end": 5834880}, {"filename": "/assets/logo.png", "start": 5834880, "end": 5839577}, {"filename": "/assets/map1.ldtk", "start": 5839577, "end": 5860535}, {"filename": "/assets/map1_map.txt", "start": 5860535, "end": 5863197}, {"filename": "/assets/menu.mp3", "start": 5863197, "end": 9755618, "audio": 1}, {"filename": "/assets/tiles1.png", "start": 9755618, "end": 9783745}], "remote_package_size": 9783745});
+    loadPackage({"files": [{"filename": "/assets/bgBroccoli.png", "start": 0, "end": 74796}, {"filename": "/assets/cherry.png", "start": 74796, "end": 75276}, {"filename": "/assets/clouds.png", "start": 75276, "end": 640423}, {"filename": "/assets/game.mp3", "start": 640423, "end": 5378166, "audio": 1}, {"filename": "/assets/goldFont-uhd.fnt", "start": 5378166, "end": 5409382}, {"filename": "/assets/goldFont-uhd.png", "start": 5409382, "end": 5796307}, {"filename": "/assets/icon.png", "start": 5796307, "end": 5819666}, {"filename": "/assets/jump1.ogg", "start": 5819666, "end": 5825368, "audio": 1}, {"filename": "/assets/jump2.ogg", "start": 5825368, "end": 5830459, "audio": 1}, {"filename": "/assets/kid.png", "start": 5830459, "end": 5834880}, {"filename": "/assets/logo.png", "start": 5834880, "end": 5839577}, {"filename": "/assets/map1.ldtk", "start": 5839577, "end": 5862432}, {"filename": "/assets/map1_map.txt", "start": 5862432, "end": 5865379}, {"filename": "/assets/menu.mp3", "start": 5865379, "end": 9757800, "audio": 1}, {"filename": "/assets/tiles1.png", "start": 9757800, "end": 9785927}], "remote_package_size": 9785927});
 
   })();
 
-// end include: D:\Soft\Msys64\tmp\tmpdwyni575.js
-// include: D:\Soft\Msys64\tmp\tmpq0j4wf4k.js
+// end include: D:\Soft\Msys64\tmp\tmp7313rcza.js
+// include: D:\Soft\Msys64\tmp\tmpx1f4zhc_.js
 
     // All the pre-js content up to here must remain later on, we need to run
     // it.
     if (Module['ENVIRONMENT_IS_PTHREAD'] || Module['$ww']) Module['preRun'] = [];
     var necessaryPreJSTasks = Module['preRun'].slice();
-  // end include: D:\Soft\Msys64\tmp\tmpq0j4wf4k.js
-// include: D:\Soft\Msys64\tmp\tmp557wyu5w.js
+  // end include: D:\Soft\Msys64\tmp\tmpx1f4zhc_.js
+// include: D:\Soft\Msys64\tmp\tmpkciokg_q.js
 
     if (!Module['preRun']) throw 'Module.preRun should exist because file support used it; did a pre-js delete it?';
     necessaryPreJSTasks.forEach(function(task) {
       if (Module['preRun'].indexOf(task) < 0) throw 'All preRun tasks that exist before user pre-js code should remain after; did you replace Module or modify Module.preRun?';
     });
-  // end include: D:\Soft\Msys64\tmp\tmp557wyu5w.js
+  // end include: D:\Soft\Msys64\tmp\tmpkciokg_q.js
 
 
 // Sometimes an existing Module object exists with properties
