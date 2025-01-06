@@ -35,7 +35,7 @@ if (ENVIRONMENT_IS_NODE) {
 
 // --pre-jses are emitted after the Module integration code, so that they can
 // refer to Module (if they choose; they can also define Module)
-// include: C:\Soft\Msys64\tmp\tmpg20294ea.js
+// include: /tmp/tmpbrqvjfir.js
 
   Module['expectedDataFileDownloads'] ??= 0;
   Module['expectedDataFileDownloads']++;
@@ -218,25 +218,25 @@ Module['FS_createPath']("/assets", "snd", true, true);
     }
 
     }
-    loadPackage({"files": [{"filename": "/assets/fnt/bigFont.fnt", "start": 0, "end": 31236}, {"filename": "/assets/fnt/gjFont09.fnt", "start": 31236, "end": 42271}, {"filename": "/assets/fnt/gjFont16.fnt", "start": 42271, "end": 51359}, {"filename": "/assets/fnt/gjFont44.fnt", "start": 51359, "end": 64225}, {"filename": "/assets/fnt/gjFont52.fnt", "start": 64225, "end": 76585}, {"filename": "/assets/fnt/goldFont.fnt", "start": 76585, "end": 107797}, {"filename": "/assets/icons/icon.ico", "start": 107797, "end": 153733}, {"filename": "/assets/img/bigFont.png", "start": 153733, "end": 567333}, {"filename": "/assets/img/bliss_bg.png", "start": 567333, "end": 870080}, {"filename": "/assets/img/bliss_sky.png", "start": 870080, "end": 1250769}, {"filename": "/assets/img/blood_kaplya.png", "start": 1250769, "end": 1250995}, {"filename": "/assets/img/clouds.png", "start": 1250995, "end": 1816142}, {"filename": "/assets/img/coder_top_bar.png", "start": 1816142, "end": 1817689}, {"filename": "/assets/img/coder_top_icon.png", "start": 1817689, "end": 1854943}, {"filename": "/assets/img/dark_grad.png", "start": 1854943, "end": 1855040}, {"filename": "/assets/img/den_ball.png", "start": 1855040, "end": 1877575}, {"filename": "/assets/img/den_block_anim0.png", "start": 1877575, "end": 1893411}, {"filename": "/assets/img/den_block_anim1.png", "start": 1893411, "end": 1911006}, {"filename": "/assets/img/den_block_anim10.png", "start": 1911006, "end": 1928820}, {"filename": "/assets/img/den_block_anim11.png", "start": 1928820, "end": 1945400}, {"filename": "/assets/img/den_block_anim2.png", "start": 1945400, "end": 1963761}, {"filename": "/assets/img/den_block_anim3.png", "start": 1963761, "end": 1983404}, {"filename": "/assets/img/den_block_anim4.png", "start": 1983404, "end": 2001765}, {"filename": "/assets/img/den_block_anim5.png", "start": 2001765, "end": 2019360}, {"filename": "/assets/img/den_block_anim6.png", "start": 2019360, "end": 2035196}, {"filename": "/assets/img/den_block_anim7.png", "start": 2035196, "end": 2051776}, {"filename": "/assets/img/den_block_anim8.png", "start": 2051776, "end": 2069590}, {"filename": "/assets/img/den_block_anim9.png", "start": 2069590, "end": 2089404}, {"filename": "/assets/img/den_boss_anim0.png", "start": 2089404, "end": 2127327}, {"filename": "/assets/img/den_boss_anim1.png", "start": 2127327, "end": 2165539}, {"filename": "/assets/img/den_boss_anim10.png", "start": 2165539, "end": 2203738}, {"filename": "/assets/img/den_boss_anim2.png", "start": 2203738, "end": 2241937}, {"filename": "/assets/img/den_boss_anim3.png", "start": 2241937, "end": 2280115}, {"filename": "/assets/img/den_boss_anim4.png", "start": 2280115, "end": 2318269}, {"filename": "/assets/img/den_boss_anim5.png", "start": 2318269, "end": 2356460}, {"filename": "/assets/img/den_boss_anim6.png", "start": 2356460, "end": 2394634}, {"filename": "/assets/img/den_boss_anim7.png", "start": 2394634, "end": 2432786}, {"filename": "/assets/img/den_boss_anim8.png", "start": 2432786, "end": 2470968}, {"filename": "/assets/img/den_boss_anim9.png", "start": 2470968, "end": 2509168}, {"filename": "/assets/img/den_game.png", "start": 2509168, "end": 2529338}, {"filename": "/assets/img/den_game_anim0.png", "start": 2529338, "end": 2985632}, {"filename": "/assets/img/den_game_anim1.png", "start": 2985632, "end": 3474360}, {"filename": "/assets/img/den_game_anim10.png", "start": 3474360, "end": 3979161}, {"filename": "/assets/img/den_game_anim2.png", "start": 3979161, "end": 4473346}, {"filename": "/assets/img/den_game_anim3.png", "start": 4473346, "end": 4971199}, {"filename": "/assets/img/den_game_anim4.png", "start": 4971199, "end": 5471420}, {"filename": "/assets/img/den_game_anim5.png", "start": 5471420, "end": 5973179}, {"filename": "/assets/img/den_game_anim6.png", "start": 5973179, "end": 6476234}, {"filename": "/assets/img/den_game_anim7.png", "start": 6476234, "end": 6978947}, {"filename": "/assets/img/den_game_anim8.png", "start": 6978947, "end": 7483026}, {"filename": "/assets/img/den_game_anim9.png", "start": 7483026, "end": 7987280}, {"filename": "/assets/img/den_game_big.png", "start": 7987280, "end": 8443574}, {"filename": "/assets/img/den_game_big10.png", "start": 8443574, "end": 8938183}, {"filename": "/assets/img/den_win_anim0.png", "start": 8938183, "end": 9761856}, {"filename": "/assets/img/den_win_anim1.png", "start": 9761856, "end": 10591204}, {"filename": "/assets/img/den_win_anim10.png", "start": 10591204, "end": 11428612}, {"filename": "/assets/img/den_win_anim2.png", "start": 11428612, "end": 12262742}, {"filename": "/assets/img/den_win_anim3.png", "start": 12262742, "end": 13097960}, {"filename": "/assets/img/den_win_anim4.png", "start": 13097960, "end": 13933910}, {"filename": "/assets/img/den_win_anim5.png", "start": 13933910, "end": 14769155}, {"filename": "/assets/img/den_win_anim6.png", "start": 14769155, "end": 15605229}, {"filename": "/assets/img/den_win_anim7.png", "start": 15605229, "end": 16441931}, {"filename": "/assets/img/den_win_anim8.png", "start": 16441931, "end": 17278816}, {"filename": "/assets/img/den_win_anim9.png", "start": 17278816, "end": 18115799}, {"filename": "/assets/img/denchik_menu.png", "start": 18115799, "end": 18153722}, {"filename": "/assets/img/denchik_menu_anim1.png", "start": 18153722, "end": 18205484}, {"filename": "/assets/img/denchik_menu_anim2.png", "start": 18205484, "end": 18257161}, {"filename": "/assets/img/denchik_menu_anim3.png", "start": 18257161, "end": 18308632}, {"filename": "/assets/img/denchik_menu_anim4.png", "start": 18308632, "end": 18360236}, {"filename": "/assets/img/denchik_menu_anim5.png", "start": 18360236, "end": 18412095}, {"filename": "/assets/img/denchik_menu_anim6.png", "start": 18412095, "end": 18465383}, {"filename": "/assets/img/denchik_white.png", "start": 18465383, "end": 18915621}, {"filename": "/assets/img/game_bg_01.png", "start": 18915621, "end": 18932765}, {"filename": "/assets/img/game_bg_07.png", "start": 18932765, "end": 18969770}, {"filename": "/assets/img/game_bg_19.png", "start": 18969770, "end": 19040158}, {"filename": "/assets/img/game_bg_20.png", "start": 19040158, "end": 19117500}, {"filename": "/assets/img/game_bg_21.png", "start": 19117500, "end": 19155587}, {"filename": "/assets/img/game_bg_38.png", "start": 19155587, "end": 19229005}, {"filename": "/assets/img/game_bg_39.png", "start": 19229005, "end": 19359110}, {"filename": "/assets/img/gameover.png", "start": 19359110, "end": 19504900}, {"filename": "/assets/img/gjFont09.png", "start": 19504900, "end": 19592345}, {"filename": "/assets/img/gjFont16.png", "start": 19592345, "end": 19891394}, {"filename": "/assets/img/gjFont44.png", "start": 19891394, "end": 20338300}, {"filename": "/assets/img/gjFont52.png", "start": 20338300, "end": 20471180}, {"filename": "/assets/img/goldFont.png", "start": 20471180, "end": 20774599}, {"filename": "/assets/img/icon.png", "start": 20774599, "end": 21732015}, {"filename": "/assets/img/icon_small.png", "start": 21732015, "end": 21831394}, {"filename": "/assets/img/kos_palm0.png", "start": 21831394, "end": 21832812}, {"filename": "/assets/img/kos_palm1.png", "start": 21832812, "end": 21834213}, {"filename": "/assets/img/kos_palm2.png", "start": 21834213, "end": 21835609}, {"filename": "/assets/img/kos_palm3.png", "start": 21835609, "end": 21837010}, {"filename": "/assets/img/kos_palm4.png", "start": 21837010, "end": 21838428}, {"filename": "/assets/img/kos_palm5.png", "start": 21838428, "end": 21839819}, {"filename": "/assets/img/kos_palm6.png", "start": 21839819, "end": 21841200}, {"filename": "/assets/img/kos_palm7.png", "start": 21841200, "end": 21842591}, {"filename": "/assets/img/kos_rock.png", "start": 21842591, "end": 21843781}, {"filename": "/assets/img/kos_trava.png", "start": 21843781, "end": 21844292}, {"filename": "/assets/img/menu_logo.png", "start": 21844292, "end": 21937077}, {"filename": "/assets/img/playerExplosion_11_001.png", "start": 21937077, "end": 22012596}, {"filename": "/assets/img/playerExplosion_11_002.png", "start": 22012596, "end": 22126536}, {"filename": "/assets/img/playerExplosion_11_003.png", "start": 22126536, "end": 22277607}, {"filename": "/assets/img/playerExplosion_11_004.png", "start": 22277607, "end": 22487085}, {"filename": "/assets/img/playerExplosion_11_005.png", "start": 22487085, "end": 22756234}, {"filename": "/assets/img/playerExplosion_11_006.png", "start": 22756234, "end": 23050623}, {"filename": "/assets/img/playerExplosion_11_007.png", "start": 23050623, "end": 23323195}, {"filename": "/assets/img/playerExplosion_11_008.png", "start": 23323195, "end": 23614884}, {"filename": "/assets/img/playerExplosion_11_009.png", "start": 23614884, "end": 23864441}, {"filename": "/assets/img/playerExplosion_11_010.png", "start": 23864441, "end": 24027758}, {"filename": "/assets/img/playerExplosion_11_011.png", "start": 24027758, "end": 24117497}, {"filename": "/assets/img/playerExplosion_11_012.png", "start": 24117497, "end": 24160154}, {"filename": "/assets/img/splash_logo.png", "start": 24160154, "end": 24232068}, {"filename": "/assets/img/trava_bg.png", "start": 24232068, "end": 24285794}, {"filename": "/assets/img/trig_surp.png", "start": 24285794, "end": 24310972}, {"filename": "/assets/maps/map1.ldtk", "start": 24310972, "end": 25650932}, {"filename": "/assets/mus/bgm1.mp3", "start": 25650932, "end": 30203728, "audio": 1}, {"filename": "/assets/mus/bgm2.mp3", "start": 30203728, "end": 33949604, "audio": 1}, {"filename": "/assets/mus/bgm3.mp3", "start": 33949604, "end": 38954811, "audio": 1}, {"filename": "/assets/mus/bgm4.mp3", "start": 38954811, "end": 40490627, "audio": 1}, {"filename": "/assets/mus/bgm5.mp3", "start": 40490627, "end": 41644033, "audio": 1}, {"filename": "/assets/mus/bgm6.mp3", "start": 41644033, "end": 43757482, "audio": 1}, {"filename": "/assets/mus/bgm7.mp3", "start": 43757482, "end": 45422568, "audio": 1}, {"filename": "/assets/mus/bgm_n1.mp3", "start": 45422568, "end": 50546791, "audio": 1}, {"filename": "/assets/mus/bgm_n2.mp3", "start": 50546791, "end": 52223979, "audio": 1}, {"filename": "/assets/mus/boss.mp3", "start": 52223979, "end": 54262751, "audio": 1}, {"filename": "/assets/mus/died.mp3", "start": 54262751, "end": 56858194, "audio": 1}, {"filename": "/assets/mus/ending.mp3", "start": 56858194, "end": 56947710, "audio": 1}, {"filename": "/assets/mus/menu.mp3", "start": 56947710, "end": 63319673, "audio": 1}, {"filename": "/assets/snd/break1.ogg", "start": 63319673, "end": 63329303, "audio": 1}, {"filename": "/assets/snd/click1.ogg", "start": 63329303, "end": 63334795, "audio": 1}, {"filename": "/assets/snd/den_ahah.ogg", "start": 63334795, "end": 63362663, "audio": 1}, {"filename": "/assets/snd/den_btn.ogg", "start": 63362663, "end": 63382197, "audio": 1}, {"filename": "/assets/snd/den_btn2.ogg", "start": 63382197, "end": 63409950, "audio": 1}, {"filename": "/assets/snd/den_ouch.ogg", "start": 63409950, "end": 63422241, "audio": 1}, {"filename": "/assets/snd/den_step.ogg", "start": 63422241, "end": 63433878, "audio": 1}, {"filename": "/assets/snd/den_win.ogg", "start": 63433878, "end": 63507350, "audio": 1}, {"filename": "/assets/snd/explosion.ogg", "start": 63507350, "end": 63543179, "audio": 1}, {"filename": "/assets/snd/player_death.ogg", "start": 63543179, "end": 63564527, "audio": 1}, {"filename": "/assets/snd/typing.ogg", "start": 63564527, "end": 63570807, "audio": 1}], "remote_package_size": 63570807});
+    loadPackage({"files": [{"filename": "/assets/fnt/bigFont.fnt", "start": 0, "end": 31236}, {"filename": "/assets/fnt/gjFont09.fnt", "start": 31236, "end": 42271}, {"filename": "/assets/fnt/gjFont16.fnt", "start": 42271, "end": 51359}, {"filename": "/assets/fnt/gjFont44.fnt", "start": 51359, "end": 64225}, {"filename": "/assets/fnt/gjFont52.fnt", "start": 64225, "end": 76585}, {"filename": "/assets/fnt/goldFont.fnt", "start": 76585, "end": 107797}, {"filename": "/assets/icons/icon.ico", "start": 107797, "end": 153733}, {"filename": "/assets/img/bigFont.png", "start": 153733, "end": 567333}, {"filename": "/assets/img/bliss_bg.png", "start": 567333, "end": 870080}, {"filename": "/assets/img/bliss_sky.png", "start": 870080, "end": 1250769}, {"filename": "/assets/img/blood_kaplya.png", "start": 1250769, "end": 1250995}, {"filename": "/assets/img/clouds.png", "start": 1250995, "end": 1816142}, {"filename": "/assets/img/coder_top_bar.png", "start": 1816142, "end": 1817689}, {"filename": "/assets/img/coder_top_icon.png", "start": 1817689, "end": 1854943}, {"filename": "/assets/img/dark_grad.png", "start": 1854943, "end": 1855040}, {"filename": "/assets/img/den_ball.png", "start": 1855040, "end": 1877575}, {"filename": "/assets/img/den_block_anim0.png", "start": 1877575, "end": 1893411}, {"filename": "/assets/img/den_block_anim1.png", "start": 1893411, "end": 1911006}, {"filename": "/assets/img/den_block_anim10.png", "start": 1911006, "end": 1928820}, {"filename": "/assets/img/den_block_anim11.png", "start": 1928820, "end": 1945400}, {"filename": "/assets/img/den_block_anim2.png", "start": 1945400, "end": 1963761}, {"filename": "/assets/img/den_block_anim3.png", "start": 1963761, "end": 1983404}, {"filename": "/assets/img/den_block_anim4.png", "start": 1983404, "end": 2001765}, {"filename": "/assets/img/den_block_anim5.png", "start": 2001765, "end": 2019360}, {"filename": "/assets/img/den_block_anim6.png", "start": 2019360, "end": 2035196}, {"filename": "/assets/img/den_block_anim7.png", "start": 2035196, "end": 2051776}, {"filename": "/assets/img/den_block_anim8.png", "start": 2051776, "end": 2069590}, {"filename": "/assets/img/den_block_anim9.png", "start": 2069590, "end": 2089404}, {"filename": "/assets/img/den_boss_anim0.png", "start": 2089404, "end": 2127327}, {"filename": "/assets/img/den_boss_anim1.png", "start": 2127327, "end": 2165539}, {"filename": "/assets/img/den_boss_anim10.png", "start": 2165539, "end": 2203738}, {"filename": "/assets/img/den_boss_anim2.png", "start": 2203738, "end": 2241937}, {"filename": "/assets/img/den_boss_anim3.png", "start": 2241937, "end": 2280115}, {"filename": "/assets/img/den_boss_anim4.png", "start": 2280115, "end": 2318269}, {"filename": "/assets/img/den_boss_anim5.png", "start": 2318269, "end": 2356460}, {"filename": "/assets/img/den_boss_anim6.png", "start": 2356460, "end": 2394634}, {"filename": "/assets/img/den_boss_anim7.png", "start": 2394634, "end": 2432786}, {"filename": "/assets/img/den_boss_anim8.png", "start": 2432786, "end": 2470968}, {"filename": "/assets/img/den_boss_anim9.png", "start": 2470968, "end": 2509168}, {"filename": "/assets/img/den_game.png", "start": 2509168, "end": 2529338}, {"filename": "/assets/img/den_game_anim0.png", "start": 2529338, "end": 2985632}, {"filename": "/assets/img/den_game_anim1.png", "start": 2985632, "end": 3474360}, {"filename": "/assets/img/den_game_anim10.png", "start": 3474360, "end": 3979161}, {"filename": "/assets/img/den_game_anim2.png", "start": 3979161, "end": 4473346}, {"filename": "/assets/img/den_game_anim3.png", "start": 4473346, "end": 4971199}, {"filename": "/assets/img/den_game_anim4.png", "start": 4971199, "end": 5471420}, {"filename": "/assets/img/den_game_anim5.png", "start": 5471420, "end": 5973179}, {"filename": "/assets/img/den_game_anim6.png", "start": 5973179, "end": 6476234}, {"filename": "/assets/img/den_game_anim7.png", "start": 6476234, "end": 6978947}, {"filename": "/assets/img/den_game_anim8.png", "start": 6978947, "end": 7483026}, {"filename": "/assets/img/den_game_anim9.png", "start": 7483026, "end": 7987280}, {"filename": "/assets/img/den_game_big.png", "start": 7987280, "end": 8443574}, {"filename": "/assets/img/den_game_big10.png", "start": 8443574, "end": 8938183}, {"filename": "/assets/img/den_win_anim0.png", "start": 8938183, "end": 9761856}, {"filename": "/assets/img/den_win_anim1.png", "start": 9761856, "end": 10591204}, {"filename": "/assets/img/den_win_anim10.png", "start": 10591204, "end": 11428612}, {"filename": "/assets/img/den_win_anim2.png", "start": 11428612, "end": 12262742}, {"filename": "/assets/img/den_win_anim3.png", "start": 12262742, "end": 13097960}, {"filename": "/assets/img/den_win_anim4.png", "start": 13097960, "end": 13933910}, {"filename": "/assets/img/den_win_anim5.png", "start": 13933910, "end": 14769155}, {"filename": "/assets/img/den_win_anim6.png", "start": 14769155, "end": 15605229}, {"filename": "/assets/img/den_win_anim7.png", "start": 15605229, "end": 16441931}, {"filename": "/assets/img/den_win_anim8.png", "start": 16441931, "end": 17278816}, {"filename": "/assets/img/den_win_anim9.png", "start": 17278816, "end": 18115799}, {"filename": "/assets/img/denchik_menu.png", "start": 18115799, "end": 18153722}, {"filename": "/assets/img/denchik_menu_anim1.png", "start": 18153722, "end": 18205484}, {"filename": "/assets/img/denchik_menu_anim2.png", "start": 18205484, "end": 18257161}, {"filename": "/assets/img/denchik_menu_anim3.png", "start": 18257161, "end": 18308632}, {"filename": "/assets/img/denchik_menu_anim4.png", "start": 18308632, "end": 18360236}, {"filename": "/assets/img/denchik_menu_anim5.png", "start": 18360236, "end": 18412095}, {"filename": "/assets/img/denchik_menu_anim6.png", "start": 18412095, "end": 18465383}, {"filename": "/assets/img/denchik_white.png", "start": 18465383, "end": 18915621}, {"filename": "/assets/img/game_bg_01.png", "start": 18915621, "end": 18932765}, {"filename": "/assets/img/game_bg_07.png", "start": 18932765, "end": 18969770}, {"filename": "/assets/img/game_bg_19.png", "start": 18969770, "end": 19040158}, {"filename": "/assets/img/game_bg_20.png", "start": 19040158, "end": 19117500}, {"filename": "/assets/img/game_bg_21.png", "start": 19117500, "end": 19155587}, {"filename": "/assets/img/game_bg_38.png", "start": 19155587, "end": 19229005}, {"filename": "/assets/img/game_bg_39.png", "start": 19229005, "end": 19359110}, {"filename": "/assets/img/gameover.png", "start": 19359110, "end": 19504900}, {"filename": "/assets/img/gjFont09.png", "start": 19504900, "end": 19592345}, {"filename": "/assets/img/gjFont16.png", "start": 19592345, "end": 19891394}, {"filename": "/assets/img/gjFont44.png", "start": 19891394, "end": 20338300}, {"filename": "/assets/img/gjFont52.png", "start": 20338300, "end": 20471180}, {"filename": "/assets/img/goldFont.png", "start": 20471180, "end": 20774599}, {"filename": "/assets/img/icon.png", "start": 20774599, "end": 21732015}, {"filename": "/assets/img/icon_small.png", "start": 21732015, "end": 21831394}, {"filename": "/assets/img/kos_palm0.png", "start": 21831394, "end": 21832812}, {"filename": "/assets/img/kos_palm1.png", "start": 21832812, "end": 21834213}, {"filename": "/assets/img/kos_palm2.png", "start": 21834213, "end": 21835609}, {"filename": "/assets/img/kos_palm3.png", "start": 21835609, "end": 21837010}, {"filename": "/assets/img/kos_palm4.png", "start": 21837010, "end": 21838428}, {"filename": "/assets/img/kos_palm5.png", "start": 21838428, "end": 21839819}, {"filename": "/assets/img/kos_palm6.png", "start": 21839819, "end": 21841200}, {"filename": "/assets/img/kos_palm7.png", "start": 21841200, "end": 21842591}, {"filename": "/assets/img/kos_rock.png", "start": 21842591, "end": 21843781}, {"filename": "/assets/img/kos_trava.png", "start": 21843781, "end": 21844292}, {"filename": "/assets/img/menu_logo.png", "start": 21844292, "end": 21937077}, {"filename": "/assets/img/playerExplosion_11_001.png", "start": 21937077, "end": 22012596}, {"filename": "/assets/img/playerExplosion_11_002.png", "start": 22012596, "end": 22126536}, {"filename": "/assets/img/playerExplosion_11_003.png", "start": 22126536, "end": 22277607}, {"filename": "/assets/img/playerExplosion_11_004.png", "start": 22277607, "end": 22487085}, {"filename": "/assets/img/playerExplosion_11_005.png", "start": 22487085, "end": 22756234}, {"filename": "/assets/img/playerExplosion_11_006.png", "start": 22756234, "end": 23050623}, {"filename": "/assets/img/playerExplosion_11_007.png", "start": 23050623, "end": 23323195}, {"filename": "/assets/img/playerExplosion_11_008.png", "start": 23323195, "end": 23614884}, {"filename": "/assets/img/playerExplosion_11_009.png", "start": 23614884, "end": 23864441}, {"filename": "/assets/img/playerExplosion_11_010.png", "start": 23864441, "end": 24027758}, {"filename": "/assets/img/playerExplosion_11_011.png", "start": 24027758, "end": 24117497}, {"filename": "/assets/img/playerExplosion_11_012.png", "start": 24117497, "end": 24160154}, {"filename": "/assets/img/splash_logo.png", "start": 24160154, "end": 24245261}, {"filename": "/assets/img/trava_bg.png", "start": 24245261, "end": 24298987}, {"filename": "/assets/img/trig_surp.png", "start": 24298987, "end": 24324165}, {"filename": "/assets/maps/map1.ldtk", "start": 24324165, "end": 25664125}, {"filename": "/assets/mus/bgm1.mp3", "start": 25664125, "end": 30216921, "audio": 1}, {"filename": "/assets/mus/bgm2.mp3", "start": 30216921, "end": 33962797, "audio": 1}, {"filename": "/assets/mus/bgm3.mp3", "start": 33962797, "end": 38968004, "audio": 1}, {"filename": "/assets/mus/bgm4.mp3", "start": 38968004, "end": 40503820, "audio": 1}, {"filename": "/assets/mus/bgm5.mp3", "start": 40503820, "end": 41657226, "audio": 1}, {"filename": "/assets/mus/bgm6.mp3", "start": 41657226, "end": 43770675, "audio": 1}, {"filename": "/assets/mus/bgm7.mp3", "start": 43770675, "end": 45435761, "audio": 1}, {"filename": "/assets/mus/bgm_n1.mp3", "start": 45435761, "end": 50559984, "audio": 1}, {"filename": "/assets/mus/bgm_n2.mp3", "start": 50559984, "end": 52237172, "audio": 1}, {"filename": "/assets/mus/boss.mp3", "start": 52237172, "end": 54275944, "audio": 1}, {"filename": "/assets/mus/died.mp3", "start": 54275944, "end": 56871387, "audio": 1}, {"filename": "/assets/mus/ending.mp3", "start": 56871387, "end": 56960903, "audio": 1}, {"filename": "/assets/mus/menu.mp3", "start": 56960903, "end": 63332866, "audio": 1}, {"filename": "/assets/snd/break1.ogg", "start": 63332866, "end": 63342496, "audio": 1}, {"filename": "/assets/snd/click1.ogg", "start": 63342496, "end": 63347988, "audio": 1}, {"filename": "/assets/snd/den_ahah.ogg", "start": 63347988, "end": 63375856, "audio": 1}, {"filename": "/assets/snd/den_btn.ogg", "start": 63375856, "end": 63395390, "audio": 1}, {"filename": "/assets/snd/den_btn2.ogg", "start": 63395390, "end": 63423143, "audio": 1}, {"filename": "/assets/snd/den_ouch.ogg", "start": 63423143, "end": 63435434, "audio": 1}, {"filename": "/assets/snd/den_step.ogg", "start": 63435434, "end": 63447071, "audio": 1}, {"filename": "/assets/snd/den_win.ogg", "start": 63447071, "end": 63520543, "audio": 1}, {"filename": "/assets/snd/explosion.ogg", "start": 63520543, "end": 63556372, "audio": 1}, {"filename": "/assets/snd/player_death.ogg", "start": 63556372, "end": 63577720, "audio": 1}, {"filename": "/assets/snd/typing.ogg", "start": 63577720, "end": 63584000, "audio": 1}], "remote_package_size": 63584000});
 
   })();
 
-// end include: C:\Soft\Msys64\tmp\tmpg20294ea.js
-// include: C:\Soft\Msys64\tmp\tmpzpxi0v32.js
+// end include: /tmp/tmpbrqvjfir.js
+// include: /tmp/tmp__ejgx2k.js
 
     // All the pre-js content up to here must remain later on, we need to run
     // it.
     if (Module['$ww'] || (typeof ENVIRONMENT_IS_PTHREAD != 'undefined' && ENVIRONMENT_IS_PTHREAD)) Module['preRun'] = [];
     var necessaryPreJSTasks = Module['preRun'].slice();
-  // end include: C:\Soft\Msys64\tmp\tmpzpxi0v32.js
-// include: C:\Soft\Msys64\tmp\tmpbngj6bii.js
+  // end include: /tmp/tmp__ejgx2k.js
+// include: /tmp/tmp3fp6qu3l.js
 
     if (!Module['preRun']) throw 'Module.preRun should exist because file support used it; did a pre-js delete it?';
     necessaryPreJSTasks.forEach((task) => {
       if (Module['preRun'].indexOf(task) < 0) throw 'All preRun tasks that exist before user pre-js code should remain after; did you replace Module or modify Module.preRun?';
     });
-  // end include: C:\Soft\Msys64\tmp\tmpbngj6bii.js
+  // end include: /tmp/tmp3fp6qu3l.js
 
 
 // Sometimes an existing Module object exists with properties
@@ -284,23 +284,19 @@ if (ENVIRONMENT_IS_NODE) {
 
 // include: node_shell_read.js
 readBinary = (filename) => {
-  // We need to re-wrap `file://` strings to URLs. Normalizing isn't
-  // necessary in that case, the path should already be absolute.
-  filename = isFileURI(filename) ? new URL(filename) : nodePath.normalize(filename);
+  // We need to re-wrap `file://` strings to URLs.
+  filename = isFileURI(filename) ? new URL(filename) : filename;
   var ret = fs.readFileSync(filename);
-  assert(ret.buffer);
+  assert(Buffer.isBuffer(ret));
   return ret;
 };
 
-readAsync = (filename, binary = true) => {
+readAsync = async (filename, binary = true) => {
   // See the comment in the `readBinary` function.
-  filename = isFileURI(filename) ? new URL(filename) : nodePath.normalize(filename);
-  return new Promise((resolve, reject) => {
-    fs.readFile(filename, binary ? undefined : 'utf8', (err, data) => {
-      if (err) reject(err);
-      else resolve(binary ? data.buffer : data);
-    });
-  });
+  filename = isFileURI(filename) ? new URL(filename) : filename;
+  var ret = fs.readFileSync(filename, binary ? undefined : 'utf8');
+  assert(binary ? Buffer.isBuffer(ret) : typeof ret == 'string');
+  return ret;
 };
 // end include: node_shell_read.js
   if (!Module['thisProgram'] && process.argv.length > 1) {
@@ -360,7 +356,7 @@ if (ENVIRONMENT_IS_WORKER) {
     };
   }
 
-  readAsync = (url) => {
+  readAsync = async (url) => {
     // Fetch has some additional restrictions over XHR, like it can't be used on a file:// url.
     // See https://github.com/github/fetch/pull/92#issuecomment-140665932
     // Cordova or Electron apps are typically loaded from a file:// url.
@@ -381,13 +377,11 @@ if (ENVIRONMENT_IS_WORKER) {
         xhr.send(null);
       });
     }
-    return fetch(url, { credentials: 'same-origin' })
-      .then((response) => {
-        if (response.ok) {
-          return response.arrayBuffer();
-        }
-        return Promise.reject(new Error(response.status + ' : ' + response.url));
-      })
+    var response = await fetch(url, { credentials: 'same-origin' });
+    if (response.ok) {
+      return response.arrayBuffer();
+    }
+    throw new Error(response.status + ' : ' + response.url);
   };
 // end include: web_or_worker_shell_read.js
   }
@@ -692,9 +686,9 @@ assert(Math.trunc, 'This browser does not support Math.trunc(), build with LEGAC
 // it happens right before run - run will be postponed until
 // the dependencies are met.
 var runDependencies = 0;
-var runDependencyWatcher = null;
 var dependenciesFulfilled = null; // overridden to take different actions when all run dependencies are fulfilled
 var runDependencyTracking = {};
+var runDependencyWatcher = null;
 
 function getUniqueRunDependency(id) {
   var orig = id;
@@ -850,26 +844,29 @@ function getBinarySync(file) {
   throw 'both async and sync fetching of the wasm failed';
 }
 
-function getBinaryPromise(binaryFile) {
+async function getWasmBinary(binaryFile) {
   // If we don't have the binary yet, load it asynchronously using readAsync.
   if (!wasmBinary
       ) {
     // Fetch the binary using readAsync
-    return readAsync(binaryFile).then(
-      (response) => new Uint8Array(/** @type{!ArrayBuffer} */(response)),
-      // Fall back to getBinarySync if readAsync fails
-      () => getBinarySync(binaryFile)
-    );
+    try {
+      var response = await readAsync(binaryFile);
+      return new Uint8Array(response);
+    } catch {
+      // Fall back to getBinarySync below;
+    }
   }
 
   // Otherwise, getBinarySync should be able to get it synchronously
-  return Promise.resolve().then(() => getBinarySync(binaryFile));
+  return getBinarySync(binaryFile);
 }
 
-function instantiateArrayBuffer(binaryFile, imports, receiver) {
-  return getBinaryPromise(binaryFile).then((binary) => {
-    return WebAssembly.instantiate(binary, imports);
-  }).then(receiver, (reason) => {
+async function instantiateArrayBuffer(binaryFile, imports) {
+  try {
+    var binary = await getWasmBinary(binaryFile);
+    var instance = await WebAssembly.instantiate(binary, imports);
+    return instance;
+  } catch (reason) {
     err(`failed to asynchronously prepare wasm: ${reason}`);
 
     // Warn on some common problems.
@@ -877,10 +874,10 @@ function instantiateArrayBuffer(binaryFile, imports, receiver) {
       err(`warning: Loading from a file URI (${wasmBinaryFile}) is not supported in most browsers. See https://emscripten.org/docs/getting_started/FAQ.html#how-do-i-run-a-local-webserver-for-testing-why-does-my-program-stall-in-downloading-or-preparing`);
     }
     abort(reason);
-  });
+  }
 }
 
-function instantiateAsync(binary, binaryFile, imports, callback) {
+async function instantiateAsync(binary, binaryFile, imports) {
   if (!binary &&
       typeof WebAssembly.instantiateStreaming == 'function' &&
       !isDataURI(binaryFile) &&
@@ -894,26 +891,19 @@ function instantiateAsync(binary, binaryFile, imports, callback) {
       //   https://github.com/emscripten-core/emscripten/pull/16917
       !ENVIRONMENT_IS_NODE &&
       typeof fetch == 'function') {
-    return fetch(binaryFile, { credentials: 'same-origin' }).then((response) => {
-      // Suppress closure warning here since the upstream definition for
-      // instantiateStreaming only allows Promise<Repsponse> rather than
-      // an actual Response.
-      // TODO(https://github.com/google/closure-compiler/pull/3913): Remove if/when upstream closure is fixed.
-      /** @suppress {checkTypes} */
-      var result = WebAssembly.instantiateStreaming(response, imports);
-
-      return result.then(
-        callback,
-        function(reason) {
-          // We expect the most common failure cause to be a bad MIME type for the binary,
-          // in which case falling back to ArrayBuffer instantiation should work.
-          err(`wasm streaming compile failed: ${reason}`);
-          err('falling back to ArrayBuffer instantiation');
-          return instantiateArrayBuffer(binaryFile, imports, callback);
-        });
-    });
+    try {
+      var response = fetch(binaryFile, { credentials: 'same-origin' });
+      var instantiationResult = await WebAssembly.instantiateStreaming(response, imports);
+      return instantiationResult;
+    } catch (reason) {
+      // We expect the most common failure cause to be a bad MIME type for the binary,
+      // in which case falling back to ArrayBuffer instantiation should work.
+      err(`wasm streaming compile failed: ${reason}`);
+      err('falling back to ArrayBuffer instantiation');
+      // fall back of instantiateArrayBuffer below
+    };
   }
-  return instantiateArrayBuffer(binaryFile, imports, callback);
+  return instantiateArrayBuffer(binaryFile, imports);
 }
 
 function getWasmImports() {
@@ -930,7 +920,7 @@ function getWasmImports() {
 
 // Create the wasm instance.
 // Receives the wasm imports, returns the exports.
-function createWasm() {
+async function createWasm() {
   // Load the wasm module and create an instance of using native support in the JS engine.
   // handle a generated wasm instance, receiving its exports and
   // performing other necessary setup
@@ -993,8 +983,9 @@ function createWasm() {
 
   wasmBinaryFile ??= findWasmBinary();
 
-  instantiateAsync(wasmBinary, wasmBinaryFile, info, receiveInstantiationResult);
-  return {}; // no exports yet; we'll fill them in later
+    var result = await instantiateAsync(wasmBinary, wasmBinaryFile, info);
+    receiveInstantiationResult(result);
+    return result;
 }
 
 // Globals used by JS i64 conversions (see makeSetValue)
@@ -1121,23 +1112,23 @@ function dbg(...args) {
 // === Body ===
 
 var ASM_CONSTS = {
-  966540: ($0) => { var str = UTF8ToString($0) + '\n\n' + 'Abort/Retry/Ignore/AlwaysIgnore? [ariA] :'; var reply = window.prompt(str, "i"); if (reply === null) { reply = "i"; } return allocate(intArrayFromString(reply), 'i8', ALLOC_NORMAL); },  
- 966765: () => { if (typeof(AudioContext) !== 'undefined') { return true; } else if (typeof(webkitAudioContext) !== 'undefined') { return true; } return false; },  
- 966912: () => { if ((typeof(navigator.mediaDevices) !== 'undefined') && (typeof(navigator.mediaDevices.getUserMedia) !== 'undefined')) { return true; } else if (typeof(navigator.webkitGetUserMedia) !== 'undefined') { return true; } return false; },  
- 967146: ($0) => { if(typeof(Module['SDL2']) === 'undefined') { Module['SDL2'] = {}; } var SDL2 = Module['SDL2']; if (!$0) { SDL2.audio = {}; } else { SDL2.capture = {}; } if (!SDL2.audioContext) { if (typeof(AudioContext) !== 'undefined') { SDL2.audioContext = new AudioContext(); } else if (typeof(webkitAudioContext) !== 'undefined') { SDL2.audioContext = new webkitAudioContext(); } if (SDL2.audioContext) { if ((typeof navigator.userActivation) === 'undefined') { autoResumeAudioContext(SDL2.audioContext); } } } return SDL2.audioContext === undefined ? -1 : 0; },  
- 967698: () => { var SDL2 = Module['SDL2']; return SDL2.audioContext.sampleRate; },  
- 967766: ($0, $1, $2, $3) => { var SDL2 = Module['SDL2']; var have_microphone = function(stream) { if (SDL2.capture.silenceTimer !== undefined) { clearInterval(SDL2.capture.silenceTimer); SDL2.capture.silenceTimer = undefined; SDL2.capture.silenceBuffer = undefined } SDL2.capture.mediaStreamNode = SDL2.audioContext.createMediaStreamSource(stream); SDL2.capture.scriptProcessorNode = SDL2.audioContext.createScriptProcessor($1, $0, 1); SDL2.capture.scriptProcessorNode.onaudioprocess = function(audioProcessingEvent) { if ((SDL2 === undefined) || (SDL2.capture === undefined)) { return; } audioProcessingEvent.outputBuffer.getChannelData(0).fill(0.0); SDL2.capture.currentCaptureBuffer = audioProcessingEvent.inputBuffer; dynCall('vi', $2, [$3]); }; SDL2.capture.mediaStreamNode.connect(SDL2.capture.scriptProcessorNode); SDL2.capture.scriptProcessorNode.connect(SDL2.audioContext.destination); SDL2.capture.stream = stream; }; var no_microphone = function(error) { }; SDL2.capture.silenceBuffer = SDL2.audioContext.createBuffer($0, $1, SDL2.audioContext.sampleRate); SDL2.capture.silenceBuffer.getChannelData(0).fill(0.0); var silence_callback = function() { SDL2.capture.currentCaptureBuffer = SDL2.capture.silenceBuffer; dynCall('vi', $2, [$3]); }; SDL2.capture.silenceTimer = setInterval(silence_callback, ($1 / SDL2.audioContext.sampleRate) * 1000); if ((navigator.mediaDevices !== undefined) && (navigator.mediaDevices.getUserMedia !== undefined)) { navigator.mediaDevices.getUserMedia({ audio: true, video: false }).then(have_microphone).catch(no_microphone); } else if (navigator.webkitGetUserMedia !== undefined) { navigator.webkitGetUserMedia({ audio: true, video: false }, have_microphone, no_microphone); } },  
- 969459: ($0, $1, $2, $3) => { var SDL2 = Module['SDL2']; SDL2.audio.scriptProcessorNode = SDL2.audioContext['createScriptProcessor']($1, 0, $0); SDL2.audio.scriptProcessorNode['onaudioprocess'] = function (e) { if ((SDL2 === undefined) || (SDL2.audio === undefined)) { return; } if (SDL2.audio.silenceTimer !== undefined) { clearInterval(SDL2.audio.silenceTimer); SDL2.audio.silenceTimer = undefined; SDL2.audio.silenceBuffer = undefined; } SDL2.audio.currentOutputBuffer = e['outputBuffer']; dynCall('vi', $2, [$3]); }; SDL2.audio.scriptProcessorNode['connect'](SDL2.audioContext['destination']); if (SDL2.audioContext.state === 'suspended') { SDL2.audio.silenceBuffer = SDL2.audioContext.createBuffer($0, $1, SDL2.audioContext.sampleRate); SDL2.audio.silenceBuffer.getChannelData(0).fill(0.0); var silence_callback = function() { if ((typeof navigator.userActivation) !== 'undefined') { if (navigator.userActivation.hasBeenActive) { SDL2.audioContext.resume(); } } SDL2.audio.currentOutputBuffer = SDL2.audio.silenceBuffer; dynCall('vi', $2, [$3]); SDL2.audio.currentOutputBuffer = undefined; }; SDL2.audio.silenceTimer = setInterval(silence_callback, ($1 / SDL2.audioContext.sampleRate) * 1000); } },  
- 970634: ($0, $1) => { var SDL2 = Module['SDL2']; var numChannels = SDL2.capture.currentCaptureBuffer.numberOfChannels; for (var c = 0; c < numChannels; ++c) { var channelData = SDL2.capture.currentCaptureBuffer.getChannelData(c); if (channelData.length != $1) { throw 'Web Audio capture buffer length mismatch! Destination size: ' + channelData.length + ' samples vs expected ' + $1 + ' samples!'; } if (numChannels == 1) { for (var j = 0; j < $1; ++j) { setValue($0 + (j * 4), channelData[j], 'float'); } } else { for (var j = 0; j < $1; ++j) { setValue($0 + (((j * numChannels) + c) * 4), channelData[j], 'float'); } } } },  
- 971239: ($0, $1) => { var SDL2 = Module['SDL2']; var buf = $0 >>> 2; var numChannels = SDL2.audio.currentOutputBuffer['numberOfChannels']; for (var c = 0; c < numChannels; ++c) { var channelData = SDL2.audio.currentOutputBuffer['getChannelData'](c); if (channelData.length != $1) { throw 'Web Audio output buffer length mismatch! Destination size: ' + channelData.length + ' samples vs expected ' + $1 + ' samples!'; } for (var j = 0; j < $1; ++j) { channelData[j] = HEAPF32[buf + (j*numChannels + c)]; } } },  
- 971728: ($0) => { var SDL2 = Module['SDL2']; if ($0) { if (SDL2.capture.silenceTimer !== undefined) { clearInterval(SDL2.capture.silenceTimer); } if (SDL2.capture.stream !== undefined) { var tracks = SDL2.capture.stream.getAudioTracks(); for (var i = 0; i < tracks.length; i++) { SDL2.capture.stream.removeTrack(tracks[i]); } } if (SDL2.capture.scriptProcessorNode !== undefined) { SDL2.capture.scriptProcessorNode.onaudioprocess = function(audioProcessingEvent) {}; SDL2.capture.scriptProcessorNode.disconnect(); } if (SDL2.capture.mediaStreamNode !== undefined) { SDL2.capture.mediaStreamNode.disconnect(); } SDL2.capture = undefined; } else { if (SDL2.audio.scriptProcessorNode != undefined) { SDL2.audio.scriptProcessorNode.disconnect(); } if (SDL2.audio.silenceTimer !== undefined) { clearInterval(SDL2.audio.silenceTimer); } SDL2.audio = undefined; } if ((SDL2.audioContext !== undefined) && (SDL2.audio === undefined) && (SDL2.capture === undefined)) { SDL2.audioContext.close(); SDL2.audioContext = undefined; } },  
- 972734: ($0, $1, $2) => { var w = $0; var h = $1; var pixels = $2; if (!Module['SDL2']) Module['SDL2'] = {}; var SDL2 = Module['SDL2']; if (SDL2.ctxCanvas !== Module['canvas']) { SDL2.ctx = Module['createContext'](Module['canvas'], false, true); SDL2.ctxCanvas = Module['canvas']; } if (SDL2.w !== w || SDL2.h !== h || SDL2.imageCtx !== SDL2.ctx) { SDL2.image = SDL2.ctx.createImageData(w, h); SDL2.w = w; SDL2.h = h; SDL2.imageCtx = SDL2.ctx; } var data = SDL2.image.data; var src = pixels / 4; var dst = 0; var num; if (typeof CanvasPixelArray !== 'undefined' && data instanceof CanvasPixelArray) { num = data.length; while (dst < num) { var val = HEAP32[src]; data[dst ] = val & 0xff; data[dst+1] = (val >> 8) & 0xff; data[dst+2] = (val >> 16) & 0xff; data[dst+3] = 0xff; src++; dst += 4; } } else { if (SDL2.data32Data !== data) { SDL2.data32 = new Int32Array(data.buffer); SDL2.data8 = new Uint8Array(data.buffer); SDL2.data32Data = data; } var data32 = SDL2.data32; num = data32.length; data32.set(HEAP32.subarray(src, src + num)); var data8 = SDL2.data8; var i = 3; var j = i + 4*num; if (num % 8 == 0) { while (i < j) { data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; } } else { while (i < j) { data8[i] = 0xff; i = i + 4 | 0; } } } SDL2.ctx.putImageData(SDL2.image, 0, 0); },  
- 974202: ($0, $1, $2, $3, $4) => { var w = $0; var h = $1; var hot_x = $2; var hot_y = $3; var pixels = $4; var canvas = document.createElement("canvas"); canvas.width = w; canvas.height = h; var ctx = canvas.getContext("2d"); var image = ctx.createImageData(w, h); var data = image.data; var src = pixels / 4; var dst = 0; var num; if (typeof CanvasPixelArray !== 'undefined' && data instanceof CanvasPixelArray) { num = data.length; while (dst < num) { var val = HEAP32[src]; data[dst ] = val & 0xff; data[dst+1] = (val >> 8) & 0xff; data[dst+2] = (val >> 16) & 0xff; data[dst+3] = (val >> 24) & 0xff; src++; dst += 4; } } else { var data32 = new Int32Array(data.buffer); num = data32.length; data32.set(HEAP32.subarray(src, src + num)); } ctx.putImageData(image, 0, 0); var url = hot_x === 0 && hot_y === 0 ? "url(" + canvas.toDataURL() + "), auto" : "url(" + canvas.toDataURL() + ") " + hot_x + " " + hot_y + ", auto"; var urlBuf = _malloc(url.length + 1); stringToUTF8(url, urlBuf, url.length + 1); return urlBuf; },  
- 975190: ($0) => { if (Module['canvas']) { Module['canvas'].style['cursor'] = UTF8ToString($0); } },  
- 975273: () => { if (Module['canvas']) { Module['canvas'].style['cursor'] = 'none'; } },  
- 975342: () => { return window.innerWidth; },  
- 975372: () => { return window.innerHeight; },  
- 975403: ($0, $1) => { alert(UTF8ToString($0) + "\n\n" + UTF8ToString($1)); }
+  965868: ($0) => { var str = UTF8ToString($0) + '\n\n' + 'Abort/Retry/Ignore/AlwaysIgnore? [ariA] :'; var reply = window.prompt(str, "i"); if (reply === null) { reply = "i"; } return allocate(intArrayFromString(reply), 'i8', ALLOC_NORMAL); },  
+ 966093: () => { if (typeof(AudioContext) !== 'undefined') { return true; } else if (typeof(webkitAudioContext) !== 'undefined') { return true; } return false; },  
+ 966240: () => { if ((typeof(navigator.mediaDevices) !== 'undefined') && (typeof(navigator.mediaDevices.getUserMedia) !== 'undefined')) { return true; } else if (typeof(navigator.webkitGetUserMedia) !== 'undefined') { return true; } return false; },  
+ 966474: ($0) => { if(typeof(Module['SDL2']) === 'undefined') { Module['SDL2'] = {}; } var SDL2 = Module['SDL2']; if (!$0) { SDL2.audio = {}; } else { SDL2.capture = {}; } if (!SDL2.audioContext) { if (typeof(AudioContext) !== 'undefined') { SDL2.audioContext = new AudioContext(); } else if (typeof(webkitAudioContext) !== 'undefined') { SDL2.audioContext = new webkitAudioContext(); } if (SDL2.audioContext) { if ((typeof navigator.userActivation) === 'undefined') { autoResumeAudioContext(SDL2.audioContext); } } } return SDL2.audioContext === undefined ? -1 : 0; },  
+ 967026: () => { var SDL2 = Module['SDL2']; return SDL2.audioContext.sampleRate; },  
+ 967094: ($0, $1, $2, $3) => { var SDL2 = Module['SDL2']; var have_microphone = function(stream) { if (SDL2.capture.silenceTimer !== undefined) { clearInterval(SDL2.capture.silenceTimer); SDL2.capture.silenceTimer = undefined; SDL2.capture.silenceBuffer = undefined } SDL2.capture.mediaStreamNode = SDL2.audioContext.createMediaStreamSource(stream); SDL2.capture.scriptProcessorNode = SDL2.audioContext.createScriptProcessor($1, $0, 1); SDL2.capture.scriptProcessorNode.onaudioprocess = function(audioProcessingEvent) { if ((SDL2 === undefined) || (SDL2.capture === undefined)) { return; } audioProcessingEvent.outputBuffer.getChannelData(0).fill(0.0); SDL2.capture.currentCaptureBuffer = audioProcessingEvent.inputBuffer; dynCall('vi', $2, [$3]); }; SDL2.capture.mediaStreamNode.connect(SDL2.capture.scriptProcessorNode); SDL2.capture.scriptProcessorNode.connect(SDL2.audioContext.destination); SDL2.capture.stream = stream; }; var no_microphone = function(error) { }; SDL2.capture.silenceBuffer = SDL2.audioContext.createBuffer($0, $1, SDL2.audioContext.sampleRate); SDL2.capture.silenceBuffer.getChannelData(0).fill(0.0); var silence_callback = function() { SDL2.capture.currentCaptureBuffer = SDL2.capture.silenceBuffer; dynCall('vi', $2, [$3]); }; SDL2.capture.silenceTimer = setInterval(silence_callback, ($1 / SDL2.audioContext.sampleRate) * 1000); if ((navigator.mediaDevices !== undefined) && (navigator.mediaDevices.getUserMedia !== undefined)) { navigator.mediaDevices.getUserMedia({ audio: true, video: false }).then(have_microphone).catch(no_microphone); } else if (navigator.webkitGetUserMedia !== undefined) { navigator.webkitGetUserMedia({ audio: true, video: false }, have_microphone, no_microphone); } },  
+ 968787: ($0, $1, $2, $3) => { var SDL2 = Module['SDL2']; SDL2.audio.scriptProcessorNode = SDL2.audioContext['createScriptProcessor']($1, 0, $0); SDL2.audio.scriptProcessorNode['onaudioprocess'] = function (e) { if ((SDL2 === undefined) || (SDL2.audio === undefined)) { return; } if (SDL2.audio.silenceTimer !== undefined) { clearInterval(SDL2.audio.silenceTimer); SDL2.audio.silenceTimer = undefined; SDL2.audio.silenceBuffer = undefined; } SDL2.audio.currentOutputBuffer = e['outputBuffer']; dynCall('vi', $2, [$3]); }; SDL2.audio.scriptProcessorNode['connect'](SDL2.audioContext['destination']); if (SDL2.audioContext.state === 'suspended') { SDL2.audio.silenceBuffer = SDL2.audioContext.createBuffer($0, $1, SDL2.audioContext.sampleRate); SDL2.audio.silenceBuffer.getChannelData(0).fill(0.0); var silence_callback = function() { if ((typeof navigator.userActivation) !== 'undefined') { if (navigator.userActivation.hasBeenActive) { SDL2.audioContext.resume(); } } SDL2.audio.currentOutputBuffer = SDL2.audio.silenceBuffer; dynCall('vi', $2, [$3]); SDL2.audio.currentOutputBuffer = undefined; }; SDL2.audio.silenceTimer = setInterval(silence_callback, ($1 / SDL2.audioContext.sampleRate) * 1000); } },  
+ 969962: ($0, $1) => { var SDL2 = Module['SDL2']; var numChannels = SDL2.capture.currentCaptureBuffer.numberOfChannels; for (var c = 0; c < numChannels; ++c) { var channelData = SDL2.capture.currentCaptureBuffer.getChannelData(c); if (channelData.length != $1) { throw 'Web Audio capture buffer length mismatch! Destination size: ' + channelData.length + ' samples vs expected ' + $1 + ' samples!'; } if (numChannels == 1) { for (var j = 0; j < $1; ++j) { setValue($0 + (j * 4), channelData[j], 'float'); } } else { for (var j = 0; j < $1; ++j) { setValue($0 + (((j * numChannels) + c) * 4), channelData[j], 'float'); } } } },  
+ 970567: ($0, $1) => { var SDL2 = Module['SDL2']; var buf = $0 >>> 2; var numChannels = SDL2.audio.currentOutputBuffer['numberOfChannels']; for (var c = 0; c < numChannels; ++c) { var channelData = SDL2.audio.currentOutputBuffer['getChannelData'](c); if (channelData.length != $1) { throw 'Web Audio output buffer length mismatch! Destination size: ' + channelData.length + ' samples vs expected ' + $1 + ' samples!'; } for (var j = 0; j < $1; ++j) { channelData[j] = HEAPF32[buf + (j*numChannels + c)]; } } },  
+ 971056: ($0) => { var SDL2 = Module['SDL2']; if ($0) { if (SDL2.capture.silenceTimer !== undefined) { clearInterval(SDL2.capture.silenceTimer); } if (SDL2.capture.stream !== undefined) { var tracks = SDL2.capture.stream.getAudioTracks(); for (var i = 0; i < tracks.length; i++) { SDL2.capture.stream.removeTrack(tracks[i]); } } if (SDL2.capture.scriptProcessorNode !== undefined) { SDL2.capture.scriptProcessorNode.onaudioprocess = function(audioProcessingEvent) {}; SDL2.capture.scriptProcessorNode.disconnect(); } if (SDL2.capture.mediaStreamNode !== undefined) { SDL2.capture.mediaStreamNode.disconnect(); } SDL2.capture = undefined; } else { if (SDL2.audio.scriptProcessorNode != undefined) { SDL2.audio.scriptProcessorNode.disconnect(); } if (SDL2.audio.silenceTimer !== undefined) { clearInterval(SDL2.audio.silenceTimer); } SDL2.audio = undefined; } if ((SDL2.audioContext !== undefined) && (SDL2.audio === undefined) && (SDL2.capture === undefined)) { SDL2.audioContext.close(); SDL2.audioContext = undefined; } },  
+ 972062: ($0, $1, $2) => { var w = $0; var h = $1; var pixels = $2; if (!Module['SDL2']) Module['SDL2'] = {}; var SDL2 = Module['SDL2']; if (SDL2.ctxCanvas !== Module['canvas']) { SDL2.ctx = Module['createContext'](Module['canvas'], false, true); SDL2.ctxCanvas = Module['canvas']; } if (SDL2.w !== w || SDL2.h !== h || SDL2.imageCtx !== SDL2.ctx) { SDL2.image = SDL2.ctx.createImageData(w, h); SDL2.w = w; SDL2.h = h; SDL2.imageCtx = SDL2.ctx; } var data = SDL2.image.data; var src = pixels / 4; var dst = 0; var num; if (typeof CanvasPixelArray !== 'undefined' && data instanceof CanvasPixelArray) { num = data.length; while (dst < num) { var val = HEAP32[src]; data[dst ] = val & 0xff; data[dst+1] = (val >> 8) & 0xff; data[dst+2] = (val >> 16) & 0xff; data[dst+3] = 0xff; src++; dst += 4; } } else { if (SDL2.data32Data !== data) { SDL2.data32 = new Int32Array(data.buffer); SDL2.data8 = new Uint8Array(data.buffer); SDL2.data32Data = data; } var data32 = SDL2.data32; num = data32.length; data32.set(HEAP32.subarray(src, src + num)); var data8 = SDL2.data8; var i = 3; var j = i + 4*num; if (num % 8 == 0) { while (i < j) { data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; data8[i] = 0xff; i = i + 4 | 0; } } else { while (i < j) { data8[i] = 0xff; i = i + 4 | 0; } } } SDL2.ctx.putImageData(SDL2.image, 0, 0); },  
+ 973530: ($0, $1, $2, $3, $4) => { var w = $0; var h = $1; var hot_x = $2; var hot_y = $3; var pixels = $4; var canvas = document.createElement("canvas"); canvas.width = w; canvas.height = h; var ctx = canvas.getContext("2d"); var image = ctx.createImageData(w, h); var data = image.data; var src = pixels / 4; var dst = 0; var num; if (typeof CanvasPixelArray !== 'undefined' && data instanceof CanvasPixelArray) { num = data.length; while (dst < num) { var val = HEAP32[src]; data[dst ] = val & 0xff; data[dst+1] = (val >> 8) & 0xff; data[dst+2] = (val >> 16) & 0xff; data[dst+3] = (val >> 24) & 0xff; src++; dst += 4; } } else { var data32 = new Int32Array(data.buffer); num = data32.length; data32.set(HEAP32.subarray(src, src + num)); } ctx.putImageData(image, 0, 0); var url = hot_x === 0 && hot_y === 0 ? "url(" + canvas.toDataURL() + "), auto" : "url(" + canvas.toDataURL() + ") " + hot_x + " " + hot_y + ", auto"; var urlBuf = _malloc(url.length + 1); stringToUTF8(url, urlBuf, url.length + 1); return urlBuf; },  
+ 974518: ($0) => { if (Module['canvas']) { Module['canvas'].style['cursor'] = UTF8ToString($0); } },  
+ 974601: () => { if (Module['canvas']) { Module['canvas'].style['cursor'] = 'none'; } },  
+ 974670: () => { return window.innerWidth; },  
+ 974700: () => { return window.innerHeight; },  
+ 974731: ($0, $1) => { alert(UTF8ToString($0) + "\n\n" + UTF8ToString($1)); }
 };
 function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) : null; if (url) window.open(url, '_blank'); }
 
@@ -1295,9 +1286,8 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
       assert(typeof ptr == 'number', `UTF8ToString expects a number (got ${typeof ptr})`);
       return ptr ? UTF8ArrayToString(HEAPU8, ptr, maxBytesToRead) : '';
     };
-  var ___assert_fail = (condition, filename, line, func) => {
+  var ___assert_fail = (condition, filename, line, func) =>
       abort(`Assertion failed: ${UTF8ToString(condition)}, at: ` + [filename ? UTF8ToString(filename) : 'unknown filename', line, func ? UTF8ToString(func) : 'unknown function']);
-    };
 
   class ExceptionInfo {
       // excPtr - Thrown object pointer to wrap. Metadata pointer is calculated from it.
@@ -1717,7 +1707,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
             buffer[offset+i] = result;
           }
           if (bytesRead) {
-            stream.node.timestamp = Date.now();
+            stream.node.atime = Date.now();
           }
           return bytesRead;
         },
@@ -1733,7 +1723,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
             throw new FS.ErrnoError(29);
           }
           if (length) {
-            stream.node.timestamp = Date.now();
+            stream.node.mtime = stream.node.ctime = Date.now();
           }
           return i;
         },
@@ -1811,7 +1801,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
   var MEMFS = {
   ops_table:null,
   mount(mount) {
-        return MEMFS.createNode(null, '/', 16384 | 511 /* 0777 */, 0);
+        return MEMFS.createNode(null, '/', 16895, 0);
       },
   createNode(parent, name, mode, dev) {
         if (FS.isBlkdev(mode) || FS.isFIFO(mode)) {
@@ -1885,11 +1875,11 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
           node.node_ops = MEMFS.ops_table.chrdev.node;
           node.stream_ops = MEMFS.ops_table.chrdev.stream;
         }
-        node.timestamp = Date.now();
+        node.atime = node.mtime = node.ctime = Date.now();
         // add the new node to the parent
         if (parent) {
           parent.contents[name] = node;
-          parent.timestamp = node.timestamp;
+          parent.atime = parent.mtime = parent.ctime = node.atime;
         }
         return node;
       },
@@ -1945,9 +1935,9 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
           } else {
             attr.size = 0;
           }
-          attr.atime = new Date(node.timestamp);
-          attr.mtime = new Date(node.timestamp);
-          attr.ctime = new Date(node.timestamp);
+          attr.atime = new Date(node.atime);
+          attr.mtime = new Date(node.mtime);
+          attr.ctime = new Date(node.ctime);
           // NOTE: In our implementation, st_blocks = Math.ceil(st_size/st_blksize),
           //       but this is not required by the standard.
           attr.blksize = 4096;
@@ -1955,11 +1945,10 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
           return attr;
         },
   setattr(node, attr) {
-          if (attr.mode !== undefined) {
-            node.mode = attr.mode;
-          }
-          if (attr.timestamp !== undefined) {
-            node.timestamp = attr.timestamp;
+          for (const key of ["mode", "atime", "mtime", "ctime"]) {
+            if (attr[key]) {
+              node[key] = attr[key];
+            }
           }
           if (attr.size !== undefined) {
             MEMFS.resizeFileStorage(node, attr.size);
@@ -1972,29 +1961,28 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
           return MEMFS.createNode(parent, name, mode, dev);
         },
   rename(old_node, new_dir, new_name) {
-          // if we're overwriting a directory at new_name, make sure it's empty.
-          if (FS.isDir(old_node.mode)) {
-            var new_node;
-            try {
-              new_node = FS.lookupNode(new_dir, new_name);
-            } catch (e) {
-            }
-            if (new_node) {
+          var new_node;
+          try {
+            new_node = FS.lookupNode(new_dir, new_name);
+          } catch (e) {}
+          if (new_node) {
+            if (FS.isDir(old_node.mode)) {
+              // if we're overwriting a directory at new_name, make sure it's empty.
               for (var i in new_node.contents) {
                 throw new FS.ErrnoError(55);
               }
             }
+            FS.hashRemoveNode(new_node);
           }
           // do the internal rewiring
           delete old_node.parent.contents[old_node.name];
-          old_node.parent.timestamp = Date.now()
-          old_node.name = new_name;
           new_dir.contents[new_name] = old_node;
-          new_dir.timestamp = old_node.parent.timestamp;
+          old_node.name = new_name;
+          new_dir.ctime = new_dir.mtime = old_node.parent.ctime = old_node.parent.mtime = Date.now();
         },
   unlink(parent, name) {
           delete parent.contents[name];
-          parent.timestamp = Date.now();
+          parent.ctime = parent.mtime = Date.now();
         },
   rmdir(parent, name) {
           var node = FS.lookupNode(parent, name);
@@ -2002,17 +1990,13 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
             throw new FS.ErrnoError(55);
           }
           delete parent.contents[name];
-          parent.timestamp = Date.now();
+          parent.ctime = parent.mtime = Date.now();
         },
   readdir(node) {
-          var entries = ['.', '..'];
-          for (var key of Object.keys(node.contents)) {
-            entries.push(key);
-          }
-          return entries;
+          return ['.', '..', ...Object.keys(node.contents)];
         },
   symlink(parent, newname, oldpath) {
-          var node = MEMFS.createNode(parent, newname, 511 /* 0777 */ | 40960, 0);
+          var node = MEMFS.createNode(parent, newname, 0o777 | 40960, 0);
           node.link = oldpath;
           return node;
         },
@@ -2049,7 +2033,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
   
           if (!length) return 0;
           var node = stream.node;
-          node.timestamp = Date.now();
+          node.mtime = node.ctime = Date.now();
   
           if (buffer.subarray && (!node.contents || node.contents.subarray)) { // This write is from a typed array to a typed array?
             if (canOwn) {
@@ -2139,25 +2123,12 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
   },
   };
   
-  /** @param {boolean=} noRunDep */
-  var asyncLoad = (url, onload, onerror, noRunDep) => {
-      var dep = !noRunDep ? getUniqueRunDependency(`al ${url}`) : '';
-      readAsync(url).then(
-        (arrayBuffer) => {
-          assert(arrayBuffer, `Loading data file "${url}" failed (no arrayBuffer).`);
-          onload(new Uint8Array(arrayBuffer));
-          if (dep) removeRunDependency(dep);
-        },
-        (err) => {
-          if (onerror) {
-            onerror();
-          } else {
-            throw `Loading data file "${url}" failed.`;
-          }
-        }
-      );
-      if (dep) addRunDependency(dep);
+  var asyncLoad = async (url) => {
+      var arrayBuffer = await readAsync(url);
+      assert(arrayBuffer, `Loading data file "${url}" failed (no arrayBuffer).`);
+      return new Uint8Array(arrayBuffer);
     };
+  asyncLoad.isAsync = true;
   
   
   var FS_createDataFile = (parent, name, fileData, canRead, canWrite, canOwn) => {
@@ -2203,7 +2174,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
       }
       addRunDependency(dep);
       if (typeof url == 'string') {
-        asyncLoad(url, processData, onerror);
+        asyncLoad(url).then(processData, onerror);
       } else {
         processData(url);
       }
@@ -2237,9 +2208,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
   
   
   
-  var strError = (errno) => {
-      return UTF8ToString(_strerror(errno));
-    };
+  var strError = (errno) => UTF8ToString(_strerror(errno));
   
   var ERRNO_CODES = {
       'EPERM': 63,
@@ -2444,6 +2413,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
           this.name = name;
           this.mode = mode;
           this.rdev = rdev;
+          this.atime = this.mtime = this.ctime = Date.now();
         }
         get read() {
           return (this.mode & this.readMode) === this.readMode;
@@ -2465,63 +2435,70 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         }
       },
   lookupPath(path, opts = {}) {
-        path = PATH_FS.resolve(path);
-  
         if (!path) return { path: '', node: null };
+        opts.follow_mount ??= true
   
-        var defaults = {
-          follow_mount: true,
-          recurse_count: 0
-        };
-        opts = Object.assign(defaults, opts)
-  
-        if (opts.recurse_count > 8) {  // max recursive lookup of 8
-          throw new FS.ErrnoError(32);
+        if (!PATH.isAbs(path)) {
+          path = FS.cwd() + '/' + path;
         }
   
-        // split the absolute path
-        var parts = path.split('/').filter((p) => !!p);
+        // limit max consecutive symlinks to 40 (SYMLOOP_MAX).
+        linkloop: for (var nlinks = 0; nlinks < 40; nlinks++) {
+          // split the absolute path
+          var parts = path.split('/').filter((p) => !!p && (p !== '.'));
   
-        // start at the root
-        var current = FS.root;
-        var current_path = '/';
+          // start at the root
+          var current = FS.root;
+          var current_path = '/';
   
-        for (var i = 0; i < parts.length; i++) {
-          var islast = (i === parts.length-1);
-          if (islast && opts.parent) {
-            // stop resolving
-            break;
-          }
+          for (var i = 0; i < parts.length; i++) {
+            var islast = (i === parts.length-1);
+            if (islast && opts.parent) {
+              // stop resolving
+              break;
+            }
   
-          current = FS.lookupNode(current, parts[i]);
-          current_path = PATH.join2(current_path, parts[i]);
+            if (parts[i] === '..') {
+              current_path = PATH.dirname(current_path);
+              current = current.parent;
+              continue;
+            }
   
-          // jump to the mount's root node if this is a mountpoint
-          if (FS.isMountpoint(current)) {
-            if (!islast || (islast && opts.follow_mount)) {
+            current_path = PATH.join2(current_path, parts[i]);
+            try {
+              current = FS.lookupNode(current, parts[i]);
+            } catch (e) {
+              // if noent_okay is true, suppress a ENOENT in the last component
+              // and return an object with an undefined node. This is needed for
+              // resolving symlinks in the path when creating a file.
+              if ((e?.errno === 44) && islast && opts.noent_okay) {
+                return { path: current_path };
+              }
+              throw e;
+            }
+  
+            // jump to the mount's root node if this is a mountpoint
+            if (FS.isMountpoint(current) && (!islast || opts.follow_mount)) {
               current = current.mounted.root;
             }
-          }
   
-          // by default, lookupPath will not follow a symlink if it is the final path component.
-          // setting opts.follow = true will override this behavior.
-          if (!islast || opts.follow) {
-            var count = 0;
-            while (FS.isLink(current.mode)) {
-              var link = FS.readlink(current_path);
-              current_path = PATH_FS.resolve(PATH.dirname(current_path), link);
-  
-              var lookup = FS.lookupPath(current_path, { recurse_count: opts.recurse_count + 1 });
-              current = lookup.node;
-  
-              if (count++ > 40) {  // limit max consecutive symlinks to 40 (SYMLOOP_MAX).
-                throw new FS.ErrnoError(32);
+            // by default, lookupPath will not follow a symlink if it is the final path component.
+            // setting opts.follow = true will override this behavior.
+            if (FS.isLink(current.mode) && (!islast || opts.follow)) {
+              if (!current.node_ops.readlink) {
+                throw new FS.ErrnoError(52);
               }
+              var link = current.node_ops.readlink(current);
+              if (!PATH.isAbs(link)) {
+                link = PATH.dirname(current_path) + '/' + link;
+              }
+              path = link + '/' + parts.slice(i + 1).join('/');
+              continue linkloop;
             }
           }
+          return { path: current_path, node: current };
         }
-  
-        return { path: current_path, node: current };
+        throw new FS.ErrnoError(32);
       },
   getPath(node) {
         var path;
@@ -2645,6 +2622,9 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         return 0;
       },
   mayCreate(dir, name) {
+        if (!FS.isDir(dir.mode)) {
+          return 54;
+        }
         try {
           var node = FS.lookupNode(dir, name);
           return 20;
@@ -2909,14 +2889,35 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         }
         return parent.node_ops.mknod(parent, name, mode, dev);
       },
-  create(path, mode) {
-        mode = mode !== undefined ? mode : 438 /* 0666 */;
+  statfs(path) {
+  
+        // NOTE: None of the defaults here are true. We're just returning safe and
+        //       sane values.
+        var rtn = {
+          bsize: 4096,
+          frsize: 4096,
+          blocks: 1e6,
+          bfree: 5e5,
+          bavail: 5e5,
+          files: FS.nextInode,
+          ffree: FS.nextInode - 1,
+          fsid: 42,
+          flags: 2,
+          namelen: 255,
+        };
+  
+        var parent = FS.lookupPath(path, {follow: true}).node;
+        if (parent?.node_ops.statfs) {
+          Object.assign(rtn, parent.node_ops.statfs(parent.mount.opts.root));
+        }
+        return rtn;
+      },
+  create(path, mode = 0o666) {
         mode &= 4095;
         mode |= 32768;
         return FS.mknod(path, mode, 0);
       },
-  mkdir(path, mode) {
-        mode = mode !== undefined ? mode : 511 /* 0777 */;
+  mkdir(path, mode = 0o777) {
         mode &= 511 | 512;
         mode |= 16384;
         return FS.mknod(path, mode, 0);
@@ -2937,7 +2938,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
   mkdev(path, mode, dev) {
         if (typeof dev == 'undefined') {
           dev = mode;
-          mode = 438 /* 0666 */;
+          mode = 0o666;
         }
         mode |= 8192;
         return FS.mknod(path, mode, dev);
@@ -3035,7 +3036,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         // do the underlying fs rename
         try {
           old_dir.node_ops.rename(old_node, new_dir, new_name);
-          // update old node (we do this here to avoid each backend 
+          // update old node (we do this here to avoid each backend
           // needing to)
           old_node.parent = new_dir;
         } catch (e) {
@@ -3105,7 +3106,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         if (!link.node_ops.readlink) {
           throw new FS.ErrnoError(28);
         }
-        return PATH_FS.resolve(FS.getPath(link.parent), link.node_ops.readlink(link));
+        return link.node_ops.readlink(link);
       },
   stat(path, dontFollow) {
         var lookup = FS.lookupPath(path, { follow: !dontFollow });
@@ -3134,7 +3135,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         }
         node.node_ops.setattr(node, {
           mode: (mode & 4095) | (node.mode & ~4095),
-          timestamp: Date.now()
+          ctime: Date.now()
         });
       },
   lchmod(path, mode) {
@@ -3207,16 +3208,16 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         var lookup = FS.lookupPath(path, { follow: true });
         var node = lookup.node;
         node.node_ops.setattr(node, {
-          timestamp: Math.max(atime, mtime)
+          atime: atime,
+          mtime: mtime
         });
       },
-  open(path, flags, mode) {
+  open(path, flags, mode = 0o666) {
         if (path === "") {
           throw new FS.ErrnoError(44);
         }
         flags = typeof flags == 'string' ? FS_modeStringToFlags(flags) : flags;
         if ((flags & 64)) {
-          mode = typeof mode == 'undefined' ? 438 /* 0666 */ : mode;
           mode = (mode & 4095) | 32768;
         } else {
           mode = 0;
@@ -3225,15 +3226,15 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         if (typeof path == 'object') {
           node = path;
         } else {
-          path = PATH.normalize(path);
-          try {
-            var lookup = FS.lookupPath(path, {
-              follow: !(flags & 131072)
-            });
-            node = lookup.node;
-          } catch (e) {
-            // ignore
-          }
+          // noent_okay makes it so that if the final component of the path
+          // doesn't exist, lookupPath returns `node: undefined`. `path` will be
+          // updated to point to the target of all symlinks.
+          var lookup = FS.lookupPath(path, {
+            follow: !(flags & 131072),
+            noent_okay: true
+          });
+          node = lookup.node;
+          path = lookup.path;
         }
         // perhaps we need to create the node
         var created = false;
@@ -3539,7 +3540,10 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         FS.mkdir('/proc/self/fd');
         FS.mount({
           mount() {
-            var node = FS.createNode(proc_self, 'fd', 16384 | 511 /* 0777 */, 73);
+            var node = FS.createNode(proc_self, 'fd', 16895, 73);
+            node.stream_ops = {
+              llseek: MEMFS.stream_ops.llseek,
+            };
             node.node_ops = {
               lookup(parent, name) {
                 var fd = +name;
@@ -3548,9 +3552,15 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
                   parent: null,
                   mount: { mountpoint: 'fake' },
                   node_ops: { readlink: () => stream.path },
+                  id: fd + 1,
                 };
                 ret.parent = ret; // make it look like a simple root node
                 return ret;
+              },
+              readdir() {
+                return Array.from(FS.streams.entries())
+                  .filter(([k, v]) => v)
+                  .map(([k, v]) => k.toString());
               }
             };
             return node;
@@ -3739,7 +3749,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
               buffer[offset+i] = result;
             }
             if (bytesRead) {
-              stream.node.timestamp = Date.now();
+              stream.node.atime = Date.now();
             }
             return bytesRead;
           },
@@ -3752,7 +3762,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
               }
             }
             if (length) {
-              stream.node.timestamp = Date.now();
+              stream.node.mtime = stream.node.ctime = Date.now();
             }
             return i;
           }
@@ -3974,7 +3984,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
           }
           return dir;
         }
-        return PATH.join2(dir, path);
+        return dir + '/' + path;
       },
   doStat(func, path, buf) {
         var stat = func(path);
@@ -4331,12 +4341,8 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
   }
   }
 
-  var __abort_js = () => {
+  var __abort_js = () =>
       abort('native code called abort()');
-    };
-
-  var nowIsMonotonic = 1;
-  var __emscripten_get_now_is_monotonic = () => nowIsMonotonic;
 
   var __emscripten_memcpy_js = (dest, src, num) => HEAPU8.copyWithin(dest, src, src + num);
 
@@ -4397,6 +4403,42 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         stringToUTF8(summerName, std_name, 17);
       }
     };
+
+  var _emscripten_get_now = () => performance.now();
+  
+  var _emscripten_date_now = () => Date.now();
+  
+  var nowIsMonotonic = 1;
+  
+  var checkWasiClock = (clock_id) => clock_id >= 0 && clock_id <= 3;
+  
+  var convertI32PairToI53Checked = (lo, hi) => {
+      assert(lo == (lo >>> 0) || lo == (lo|0)); // lo should either be a i32 or a u32
+      assert(hi === (hi|0));                    // hi should be a i32
+      return ((hi + 0x200000) >>> 0 < 0x400001 - !!lo) ? (lo >>> 0) + hi * 4294967296 : NaN;
+    };
+  function _clock_time_get(clk_id,ignored_precision_low, ignored_precision_high,ptime) {
+    var ignored_precision = convertI32PairToI53Checked(ignored_precision_low, ignored_precision_high);
+  
+    
+      if (!checkWasiClock(clk_id)) {
+        return 28;
+      }
+      var now;
+      // all wasi clocks but realtime are monotonic
+      if (clk_id === 0) {
+        now = _emscripten_date_now();
+      } else if (nowIsMonotonic) {
+        now = _emscripten_get_now();
+      } else {
+        return 52;
+      }
+      // "now" is in ms, and wasi times are in ns.
+      var nsec = Math.round(now * 1000 * 1000);
+      (tempI64 = [nsec>>>0,(tempDouble = nsec,(+(Math.abs(tempDouble))) >= 1.0 ? (tempDouble > 0.0 ? (+(Math.floor((tempDouble)/4294967296.0)))>>>0 : (~~((+(Math.ceil((tempDouble - +(((~~(tempDouble)))>>>0))/4294967296.0)))))>>>0) : 0)], HEAP32[((ptime)>>2)] = tempI64[0],HEAP32[(((ptime)+(4))>>2)] = tempI64[1]);
+      return 0;
+    ;
+  }
 
   var handleException = (e) => {
       // Certain exception types we do not treat as errors since they are used for
@@ -4636,7 +4678,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         }
       },
   createContext(/** @type {HTMLCanvasElement} */ canvas, useWebGL, setInModule, webGLContextAttributes) {
-        if (useWebGL && Module.ctx && canvas == Module['canvas']) return Module.ctx; // no need to recreate GL context if it's already been created for this canvas.
+        if (useWebGL && Module['ctx'] && canvas == Module['canvas']) return Module['ctx']; // no need to recreate GL context if it's already been created for this canvas.
   
         var ctx;
         var contextHandle;
@@ -4671,7 +4713,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
   
         if (setInModule) {
           if (!useWebGL) assert(typeof GLctx == 'undefined', 'cannot set in module if GLctx is used, but we are a non-GL context that would replace it');
-          Module.ctx = ctx;
+          Module['ctx'] = ctx;
           if (useWebGL) GL.makeContextCurrent(contextHandle);
           Browser.useWebGL = useWebGL;
           Browser.moduleContextCreatedCallbacks.forEach((callback) => callback());
@@ -5066,9 +5108,8 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
       return 0;
     };
 
-  var _eglChooseConfig = (display, attrib_list, configs, config_size, numConfigs) => {
-      return EGL.chooseConfig(display, attrib_list, configs, config_size, numConfigs);
-    };
+  var _eglChooseConfig = (display, attrib_list, configs, config_size, numConfigs) =>
+      EGL.chooseConfig(display, attrib_list, configs, config_size, numConfigs);
 
   var GLctx;
   
@@ -5107,22 +5148,18 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
       }
     };
   
-  var webgl_enable_EXT_polygon_offset_clamp = (ctx) => {
-      return !!(ctx.extPolygonOffsetClamp = ctx.getExtension('EXT_polygon_offset_clamp'));
-    };
+  var webgl_enable_EXT_polygon_offset_clamp = (ctx) =>
+      !!(ctx.extPolygonOffsetClamp = ctx.getExtension('EXT_polygon_offset_clamp'));
   
-  var webgl_enable_EXT_clip_control = (ctx) => {
-      return !!(ctx.extClipControl = ctx.getExtension('EXT_clip_control'));
-    };
+  var webgl_enable_EXT_clip_control = (ctx) =>
+      !!(ctx.extClipControl = ctx.getExtension('EXT_clip_control'));
   
-  var webgl_enable_WEBGL_polygon_mode = (ctx) => {
-      return !!(ctx.webglPolygonMode = ctx.getExtension('WEBGL_polygon_mode'));
-    };
+  var webgl_enable_WEBGL_polygon_mode = (ctx) =>
+      !!(ctx.webglPolygonMode = ctx.getExtension('WEBGL_polygon_mode'));
   
-  var webgl_enable_WEBGL_multi_draw = (ctx) => {
+  var webgl_enable_WEBGL_multi_draw = (ctx) =>
       // Closure is expected to be allowed to minify the '.multiDrawWebgl' property, so not accessing it quoted.
-      return !!(ctx.multiDrawWebgl = ctx.getExtension('WEBGL_multi_draw'));
-    };
+      !!(ctx.multiDrawWebgl = ctx.getExtension('WEBGL_multi_draw'));
   
   var getEmscriptenSupportedExtensions = (ctx) => {
       // Restrict the list of advertised extensions to those that we actually
@@ -5282,7 +5319,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
         // Active Emscripten GL layer context object.
         GL.currentContext = GL.contexts[contextHandle];
         // Active WebGL context object.
-        Module.ctx = GLctx = GL.currentContext?.GLctx;
+        Module['ctx'] = GLctx = GL.currentContext?.GLctx;
         return !(contextHandle && !GLctx);
       },
   getContext:(contextHandle) => {
@@ -5668,7 +5705,6 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
 
   
   
-  var _emscripten_get_now = () => performance.now();
   
   
     /**
@@ -5735,7 +5771,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
           MainLoop.tickStartTime = _emscripten_get_now();
         }
   
-        if (MainLoop.method === 'timeout' && Module.ctx) {
+        if (MainLoop.method === 'timeout' && Module['ctx']) {
           warnOnce('Looks like you are rendering without using requestAnimationFrame for the main loop. You should use 0 for the frame rate in emscripten_set_main_loop in order to use requestAnimationFrame, as that can greatly improve your frame rates!');
           MainLoop.method = ''; // just warn once per call to set main loop
         }
@@ -6001,7 +6037,6 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
       MainLoop.func = null;
     };
 
-  var _emscripten_date_now = () => Date.now();
 
   var _emscripten_err = (str) => err(UTF8ToString(str));
 
@@ -6148,7 +6183,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
   /** @suppress {duplicate } */
   var findEventTarget = (target) => {
       target = maybeCStringToJsString(target);
-      var domElement = specialHTMLTargets[target] || (typeof document != 'undefined' ? document.querySelector(target) : undefined);
+      var domElement = specialHTMLTargets[target] || (typeof document != 'undefined' ? document.querySelector(target) : null);
       return domElement;
     };
   var findCanvasEventTarget = findEventTarget;
@@ -6991,16 +7026,14 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
     };
   
   /** @suppress {duplicate } */
-  var _glGetActiveAttrib = (program, index, bufSize, length, size, type, name) => {
+  var _glGetActiveAttrib = (program, index, bufSize, length, size, type, name) =>
       __glGetActiveAttribOrUniform('getActiveAttrib', program, index, bufSize, length, size, type, name);
-    };
   var _emscripten_glGetActiveAttrib = _glGetActiveAttrib;
 
   
   /** @suppress {duplicate } */
-  var _glGetActiveUniform = (program, index, bufSize, length, size, type, name) => {
+  var _glGetActiveUniform = (program, index, bufSize, length, size, type, name) =>
       __glGetActiveAttribOrUniform('getActiveUniform', program, index, bufSize, length, size, type, name);
-    };
   var _emscripten_glGetActiveUniform = _glGetActiveUniform;
 
   /** @suppress {duplicate } */
@@ -7020,9 +7053,8 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
 
   
   /** @suppress {duplicate } */
-  var _glGetAttribLocation = (program, name) => {
-      return GLctx.getAttribLocation(GL.programs[program], UTF8ToString(name));
-    };
+  var _glGetAttribLocation = (program, name) =>
+      GLctx.getAttribLocation(GL.programs[program], UTF8ToString(name));
   var _emscripten_glGetAttribLocation = _glGetAttribLocation;
 
   var readI53FromI64 = (ptr) => {
@@ -7392,7 +7424,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
 
   
   
-  var webglGetExtensions = function $webglGetExtensions() {
+  var webglGetExtensions = () => {
       var exts = getEmscriptenSupportedExtensions(GLctx);
       exts = exts.concat(exts.map((e) => "GL_" + e));
       return exts;
@@ -9112,9 +9144,7 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
   var ENV = {
   };
   
-  var getExecutableName = () => {
-      return thisProgram || './this.program';
-    };
+  var getExecutableName = () => thisProgram || './this.program';
   var getEnvStrings = () => {
       if (!getEnvStrings.strings) {
         // Default values.
@@ -9219,11 +9249,6 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
   }
 
   
-  var convertI32PairToI53Checked = (lo, hi) => {
-      assert(lo == (lo >>> 0) || lo == (lo|0)); // lo should either be a i32 or a u32
-      assert(hi === (hi|0));                    // hi should be a i32
-      return ((hi + 0x200000) >>> 0 < 0x400001 - !!lo) ? (lo >>> 0) + hi * 4294967296 : NaN;
-    };
   function _fd_seek(fd,offset_low, offset_high,whence,newOffset) {
     var offset = convertI32PairToI53Checked(offset_low, offset_high);
   
@@ -9325,9 +9350,9 @@ function ImGui_ImplSDL2_EmscriptenOpenURL(url) { url = url ? UTF8ToString(url) :
 
 
 
-  var listenOnce = (object, event, func) => {
+
+  var listenOnce = (object, event, func) =>
       object.addEventListener(event, func, { 'once': true });
-    };
   /** @param {Object=} elements */
   var autoResumeAudioContext = (ctx, elements) => {
       if (!elements) {
@@ -9839,11 +9864,11 @@ var wasmImports = {
   /** @export */
   _abort_js: __abort_js,
   /** @export */
-  _emscripten_get_now_is_monotonic: __emscripten_get_now_is_monotonic,
-  /** @export */
   _emscripten_memcpy_js: __emscripten_memcpy_js,
   /** @export */
   _tzset_js: __tzset_js,
+  /** @export */
+  clock_time_get: _clock_time_get,
   /** @export */
   eglBindAPI: _eglBindAPI,
   /** @export */
@@ -10379,6 +10404,8 @@ var wasmImports = {
   /** @export */
   glGetShaderiv: _glGetShaderiv,
   /** @export */
+  glGetString: _glGetString,
+  /** @export */
   glGetUniformLocation: _glGetUniformLocation,
   /** @export */
   glIsEnabled: _glIsEnabled,
@@ -10405,7 +10432,8 @@ var wasmImports = {
   /** @export */
   glViewport: _glViewport
 };
-var wasmExports = createWasm();
+var wasmExports;
+createWasm();
 var ___wasm_call_ctors = createExportWrapper('__wasm_call_ctors', 0);
 var _malloc = createExportWrapper('malloc', 1);
 var _free = createExportWrapper('free', 1);
@@ -10450,11 +10478,11 @@ var dynCall_iiji = Module['dynCall_iiji'] = createExportWrapper('dynCall_iiji', 
 var dynCall_fii = Module['dynCall_fii'] = createExportWrapper('dynCall_fii', 3);
 var dynCall_jij = Module['dynCall_jij'] = createExportWrapper('dynCall_jij', 4);
 var dynCall_iij = Module['dynCall_iij'] = createExportWrapper('dynCall_iij', 4);
+var dynCall_iiiiiiiii = Module['dynCall_iiiiiiiii'] = createExportWrapper('dynCall_iiiiiiiii', 9);
 var dynCall_viiiii = Module['dynCall_viiiii'] = createExportWrapper('dynCall_viiiii', 6);
 var dynCall_iiiiiiii = Module['dynCall_iiiiiiii'] = createExportWrapper('dynCall_iiiiiiii', 8);
 var dynCall_iiiiiiiiii = Module['dynCall_iiiiiiiiii'] = createExportWrapper('dynCall_iiiiiiiiii', 10);
 var dynCall_iiiiiiiiiiiiiiff = Module['dynCall_iiiiiiiiiiiiiiff'] = createExportWrapper('dynCall_iiiiiiiiiiiiiiff', 16);
-var dynCall_iiiiiiiii = Module['dynCall_iiiiiiiii'] = createExportWrapper('dynCall_iiiiiiiii', 9);
 var dynCall_viiiiiii = Module['dynCall_viiiiiii'] = createExportWrapper('dynCall_viiiiiii', 8);
 var dynCall_viiiiiiiiiii = Module['dynCall_viiiiiiiiiii'] = createExportWrapper('dynCall_viiiiiiiiiii', 12);
 var dynCall_iiiiiidiiff = Module['dynCall_iiiiiidiiff'] = createExportWrapper('dynCall_iiiiiidiiff', 11);
@@ -10556,7 +10584,6 @@ var missingLibrarySymbols = [
   'jsStackTrace',
   'getCallstack',
   'convertPCtoSourceLocation',
-  'checkWasiClock',
   'wasiRightsToMuslOFlags',
   'wasiOFlagsToMuslOFlags',
   'setImmediateWrapped',
@@ -10704,6 +10731,7 @@ var unexportedSymbols = [
   'UNWIND_CACHE',
   'ExitStatus',
   'getEnvStrings',
+  'checkWasiClock',
   'doReadv',
   'doWritev',
   'initRandomFill',
